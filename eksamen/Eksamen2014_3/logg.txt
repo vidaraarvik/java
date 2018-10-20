@@ -1,0 +1,7 @@
+﻿Time-oppdrag: adresse =Bergen, container=3, pris=600.0
+Time-oppdrag: adresse =Oslo, container=2, pris=550.0
+Time-oppdrag: adresse =Innbjoa, container=1, pris=500.0
+Time-oppdrag: adresse =oslo, container=1, pris=5000.0
+Dag-oppdrag: adresse =innbjoa, container=4, pris=6000.0
+Dag-oppdrag: adresse =bergen, container=5, pris=7500.0
+Time-oppdrag: adresse =oslo, container=2, pris=2200.0

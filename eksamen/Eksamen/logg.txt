@@ -1,0 +1,4 @@
+﻿Transaksjon: fraKonto=Sparekonto: kontonr=3, saldo=615.491516648673, tilKonto=Lønnskonto: kontonr=1, saldo=247.58724090113833, beløp=10500.0
+Transaksjon: fraKonto=Lønnskonto: kontonr=1, saldo=6445.427159056701, tilKonto=Sparekonto: kontonr=2, saldo=6084.516974766822, beløp=10100.0
+Transaksjon: fraKonto=Sparekonto: kontonr=3, saldo=8392.743714732143, tilKonto=Lønnskonto: kontonr=1, saldo=8691.92905600922, beløp=10050.0
+Transaksjon: fraKonto=Lønnskonto: kontonr=1, saldo=455.8968712817638, tilKonto=Sparekonto: kontonr=3, saldo=436.48501045883216, beløp=10100.0

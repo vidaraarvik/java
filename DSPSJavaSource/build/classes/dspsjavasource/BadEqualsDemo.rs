@@ -1,0 +1,2 @@
+SomeClass
+BadEqualsDemo

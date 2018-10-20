@@ -1,0 +1,13 @@
+FLERVALG
+Hva heter hovedstaden i Norge?
+A. Trondheim
+B. Oslo
+C. Bergen
+D. Tromsoe
+B
+KORTSVAR
+Hva blir 2+3?
+5
+KORTSVAR
+Hva heter hovedstaden i Sverige?
+Stockholm
